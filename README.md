@@ -18,7 +18,7 @@ Piotr Wolski (wolski@csag.uct.ac.za)
 
 Development history
 =======
-This software has been developed during 2017-2010 under funding from SADC CSC project SARCIS-DR
+This software has been developed during 2017-2020 under funding from SADC CSC project SARCIS-DR
 
 In November 2022, the software has been ported from the original personal github repo https://github.com/taxmanyana/cft
 to this "institutional" repo.
